@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Cerbino</h1>
 <h3 align="center">⚡️ Electrical Engineering Student</h3>
 
-- 🤖 I’m currently learning **Embedded Systems (Firmware and Hardware)**
+- 🤖 I’m currently learning **Energy and Process Automation**
 
 - 📫 How to reach me **jvcerbino@outlook.com**
 
